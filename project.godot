@@ -15,7 +15,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Pathfinding 2D"
-run/main_scene="res://Demo.tscn"
+run/main_scene="res://Pathfinding2D.tscn"
 config/icon="res://Assets/Sprites/Characters/Robi.png"
 
 [debug]
